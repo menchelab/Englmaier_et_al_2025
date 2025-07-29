@@ -16,3 +16,5 @@ python -m ipykernel install --user --name codons --display-name codons
 and then simply running `jupyter lab` to run the notebooks. All presented analyses should be reproducable
 with the code contained in the respective jupyter notebooks. Most of the code concerning the computation of
 the codon biases for coding sequences are contained in `notebooks/codontools` and work as a self contained Python package.
+The codontools themselves contain code to compute a variety of different codon bias measures from simple percentage of coding sequence
+to clusters of codons including some functionality to visualize the clusters.
