@@ -1,4 +1,5 @@
 # Englmaier_et_al_2025
+[![DOI](https://zenodo.org/badge/1009427048.svg)](https://doi.org/10.5281/zenodo.16561318)
 A repository for code associated with codonbias analyses presented in the manuscript
 
 # Installation and Usage
